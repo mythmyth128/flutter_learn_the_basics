@@ -1,0 +1,7 @@
+{
+    "nuxt.isNuxtApp": false,
+    "dart.previewFlutterUiGuides": true,
+    "[dart]": {
+        "editor.guides.indentation": false
+    }
+}
