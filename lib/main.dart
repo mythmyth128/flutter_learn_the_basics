@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: const Text('111'),
             ),
           ),
-          const Text('가자고요'),
+          const Text('알파고'),
           Column(
             children: [
               const Center(
